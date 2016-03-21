@@ -12,7 +12,7 @@ The source code can be directly called from Python.
 
 Usage:
 --------------------------------
-python surviv.py <input_read_count_file> <input_survival_file> <output_file> 
+python surviv.py input_read_count_file input_survival_file output_file 
 
 The examples of input files are available with the zipped source code. The input format is detailed in the Example section.
 
