@@ -6,13 +6,15 @@ Requirements
 SciPy.
 2. Add the Python directory to the $PATH environment variable.
 
-Installation
+Installation:
 ------------
-
+The source code can be directly called from Python.
 
 Usage:
 --------------------------------
+python surviv.py <input_read_count_file> <input_survival_file> <output_file> 
 
+The examples of input files are available with the zipped source code. The input format is detailed in the Example section.
 
 Example:
 --------------------------------
@@ -82,14 +84,5 @@ Shihao Shen and Yi Xing
 
 Authors: Shihao Shen and Yi Xing
 
-This program is free software: you can redistribute it and/or modify it under
-the terms of the GNU General Public License as published by the Free Software
-Foundation, either version 3 of the License, or (at your option) any later
-version.
+This program is licensed with non-forking open source license. Please see the attached LICENSE file for details.
 
-This program is distributed in the hope that it will be useful, but WITHOUT
-ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with
-this program. If not, see http://www.gnu.org/licenses/.
