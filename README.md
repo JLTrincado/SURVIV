@@ -75,7 +75,7 @@ Before you send us the bug report though, please check the following:
 
 Publication
 ------------
-Shen S, Wu YN, Xing Y. SURVIV: Survival Analysis of mRNA Isoform Variation.
+Shen S, Wang Y, Wang C, Wu YN, Xing Y. SURVIV: Survival Analysis of mRNA Isoform Variation.
 Nature Communications. (In press).
 
 Copyright and License Information
@@ -85,5 +85,5 @@ Shihao Shen and Yi Xing
 
 Authors: Shihao Shen and Yi Xing
 
-This program is licensed with non-forking open source license. Please see the attached LICENSE file for details.
+This program is licensed with non-commercial use license. Please see the attached LICENSE file for details.
 
