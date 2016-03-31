@@ -1,28 +1,35 @@
+The Regents of the University of California
 Software License
-UCLA USC LONI FRAMEWORK
-This License governs use of the accompanying software, and all accompanying tools, data, utilities, forms, libraries, etc. (“Software”), and Licensee’s (“You” or “Your”) use of the Software, Platform, Data, Images, and all Utilities.  Use of the Software constitutes acceptance of this license.
+SURVIV: SURVIVAL ANALYSIS OF MRNA ISOFORM VARIATION USING LARGE SCALE RNA-SEQUENCE DATA (UCLA Case no. 2016-678)
 
-The Software was created by multiple authors at the LONI Institute (“Licensor”) to enable Faculty and Researchers to study the isoform variation associated with patient survival using RNA-seq.
-You may use this Software WITHOUT CHARGE for any non-commercial purpose, subject to the restrictions in this license. Some of those allowable uses or purposes which can be non-commercial are teaching, academic research, use in your own environment (whether that is a commercial, academic or non-profit company or organization) and personal experimentation. You may use the software if you are a commercial entity. 
-There are two things you cannot do with this Software: 
-1.	You cannot incorporate it into a commercial product (“Commercial Use”).
-2.	You cannot distribute this software or any modifications (“Derivative Work) of this software.
-And in order to avoid forking you hereby agree to: 
-1.	Contribute back/share your changes to the SURVIV software with LONI. We want everyone to benefit from the use of this product, we want it to stay free, and we want to avoid it forking (or splintering) into disconnected versions. 
-Therefore; you may not use or distribute this Software or any Derivative Works in any form for any purpose. Examples of prohibited purposes would be licensing, leasing, or selling the Software, or distributing the Software for use with other commercial products, or incorporating the Software into a commercial product.
+Commercial reservation
+This License governs use of the accompanying Software, and your use of the Software constitutes acceptance of this license.
 
-You may create Derivative Works of the software for your own use only. You may modify this Software and contribute it back to LONI, but you may not distribute the modified Software; all distribution must happen via LONI.  You may not grant rights to the Software or Derivative Works to this software under this License. For example, you may not distribute modifications of the Software under any terms, or sublicense this software to others.
+You may use this Software for any non-commercial purpose, subject to the restrictions in this license. Some purposes which can be non-commercial are teaching, academic research, and personal experimentation. 
 
-You agree to: 
-1.	To share all Derivative Works you create of the Software (the SURVIV software itself) with the Licensor at LONI so that others who are using the Software can benefit from improvements.
-2.	That you will include the phrase LONI SURVIV logo somewhere on your application or website  The Logo should be an active hyperlink to this web address:  “https://github.com/Xinglab/rPGA”.
-3.	Not remove any copyright or other notices from the Software.
-4.	That you will not distribute this software or any Derivative Works of this software to any party whatsoever, modified or unmodified.  LONI shall be the only distributor of this software, with no exceptions.
+You may not use or distribute this Software or any derivative works in any form for any commercial purpose. Examples of commercial purposes would be running business operations, licensing, leasing, or selling the Software, or distributing the Software for use with commercial products. 
+
+You may modify this Software and distribute the modified Software for non-commercial purposes; however, you may not grant rights to the Software or derivative works that are broader than those provided by this License. For example, you may not distribute modifications of the Software under terms that would permit commercial use, or under terms that purport to require the Software or derivative works to be sublicensed to others.
+
+You agree: 
+1.	Not remove any copyright or other notices from the Software.
+2.	That if you distribute the Software in source or object form, you will include a verbatim copy of this license.
+3.	That if you distribute derivative works of the Software in source code form you do so only under a license that includes all of the provisions of this License, and if you distribute derivative works of the Software solely in object form you do so only under a license that complies with this License.
+4.	That if you have modified the Software or created derivative works, and distribute such modifications or derivative works, you will cause the modified files to carry prominent notices so that recipients know that they are not receiving the original Software. Such notices must state: (i) that you have changed the Software; and (ii) the date of any changes.
 5.	THAT THIS PRODUCT IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS PRODUCT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  YOU MUST PASS THIS LIMITATION OF LIABILITY ON WHENEVER YOU DISTRIBUTE THE SOFTWARE OR DERIVATIVE WORKS.
 6.	That if you sue anyone over patents that you think may apply to the Software or anyone's use of the Software, your license to the Software ends automatically.
 7.	That your rights under the License end automatically if you breach it in any way.
-8.	USC, UCLA and the Regents of the University of California reserves all rights not expressly granted to you in this license.
-9.	Nothing in this Agreement grants by implication, estoppel, or otherwise any rights to any intellectual property owned by the Regents of the University of California or the University of Southern California except as explicitly set forth in this license.
-10.	You will hold the Regents of the University of California and the University of Southern California harmless for all claims, suits, losses, liabilities, damages, costs, fees, and expenses resulting from their respective activities arising from this license.  
-11.	You will not use any nane, trade name, trademark, name of any campus, or other designation of the Regents of the University of California or the University of Southern California in advertising, publicity, or other promotional activity, except as permitted herein.
+8.	The Authors, UCLA and the Regents of the University of California reserves all rights not expressly granted to you in this license.
+9.	Nothing in this Agreement grants by implication, estoppel, or otherwise any rights to any intellectual property owned by the Regents of the University of California, except as explicitly set forth in this license.
+10.	You will hold the Regents of the harmless for all claims, suits, losses, liabilities, damages, costs, fees, and expenses resulting from their respective activities arising from this license.  
+11.	You will not use any name, trade name, trademark, name of any campus, or other designation of the Regents of the University of California in advertising, publicity, or other promotional activity, except as permitted herein.
+12.	If you wish to obtain a commercial license to use this software, please contact the authors at
+
+Yi Xing
+Department of Microbiology, Immunology and Molecular Genetics
+University of California, Los Angeles
+Los Angeles, CA 90095-7278
+Phone: 310-825-6806
+Fax: 310-206-3663
+Email: yxing@ucla.edu
 
