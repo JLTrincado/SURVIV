@@ -85,5 +85,5 @@ Shihao Shen and Yi Xing
 
 Authors: Shihao Shen and Yi Xing
 
-This program is licensed with non-commercial use license. Please see the attached LICENSE file for details.
+This program is licensed with commercial restriction use license. Please see the attached LICENSE file for details.
 
