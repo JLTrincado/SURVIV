@@ -355,8 +355,6 @@ def likelihood_test(i1,s1,cov,time,risk,Lambda,event,effective_inclusion_length,
 		#print('test');print(res);print(res_constrain);
 		#return([1-scipy.stats.chi2.cdf(10*(abs(res_constrain[0]-res[0])),1)]);
 		temp=scipy.stats.chi2.sf(2*(res_constrain[0]-res[0]),1);
-		if temp<=0.1:
-			temp=0.5*temp;
 		return([min(temp,1)]);
 
 #MultiProcessorFunction
